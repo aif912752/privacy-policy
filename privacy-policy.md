@@ -1,6 +1,6 @@
 # Privacy Policy
    
-   **Last Updated:** [วันที่]
+   **Last Updated:** 14/11/2025
    
    ## 1. Introduction
    This policy describes how we handle data in the Content Auto Poster application.
@@ -23,4 +23,4 @@
    - Users can request data deletion at any time
    
    ---
-   Contact: your-email@example.com
+   Contact: aif912752@gmail.com
